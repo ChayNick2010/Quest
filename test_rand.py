@@ -9,3 +9,4 @@ event = random.choice(sel)
 
 print(event)
 https://classic.minecraft.net/?join=KZA6d45uVLhcW3hZ
+https://classic.minecraft.net/?join=qb0ZovnShmyBEXmI
