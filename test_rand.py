@@ -11,3 +11,4 @@ print(event)
 https://classic.minecraft.net/?join=KZA6d45uVLhcW3hZ
 https://classic.minecraft.net/?join=qb0ZovnShmyBEXmI
 https://garticphone.com/ru/?c=0071cb9ec8
+https://docs.google.com/presentation/d/1grbQBiBopQRIUoi6ixPOOdxqC2mWXRAYLBTywrpgFmQ/edit?usp=sharing
